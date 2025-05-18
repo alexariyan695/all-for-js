@@ -25,3 +25,5 @@ console.log(point.x)
 console.log(point.y)
 console.log(point.z * point.x)
 console.log(point.x + point.y)
+
+
